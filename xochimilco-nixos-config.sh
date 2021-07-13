@@ -24,6 +24,18 @@ sudo nano /mnt/etc/nixos/configuration.nix
     };
   };
 
+# Define a user account. Don't forget to set a password with ‘passwd’.
+  users.extraUsers.sagamore = {
+    home = "/home/sagamore";
+    description = "Sagamore";
+    extraGroups = [ 
+      "networkmanager"
+      "wheel"
+    ];
+    isNormalUser = true;
+    uid = 1000;
+  };
+
 sudo nixos-install
 
 sudo reboot
