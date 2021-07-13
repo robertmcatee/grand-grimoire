@@ -20,7 +20,7 @@ sudo nano /mnt/etc/nixos/configuration.nix
   boot.initrd.luks.devices = {
     crypted = {
       device = "/dev/disk/by-uuid/<UUID OF SDA4!!>";
-      preLVM = false; # LVM loads first then the crypt is there in this case
+      preLVM = true;
     };
   };
 
