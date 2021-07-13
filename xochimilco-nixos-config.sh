@@ -1,7 +1,7 @@
-sudo nixos-generate-config --root /mnt
-
 # get the disk UUID for sda3
-ls -lha /dev/disk/by-uuid
+ls -lha /dev/disk/by-uuid | grep sda4
+
+sudo nixos-generate-config --root /mnt
 
 # Edit my config file to include LUKS stuff
 sudo nano /mnt/etc/nixos/hardware-configuration.nix
@@ -11,7 +11,7 @@ sudo nano /mnt/etc/nixos/configuration.nix
   boot.loader.grub = {
     enable = true;
     version = 2;
-    efiSupport = true;
+    efiSupport = false;
     enableCryptodisk = true;
     device = "/dev/sda";
   };
@@ -19,7 +19,7 @@ sudo nano /mnt/etc/nixos/configuration.nix
 # luks
   boot.initrd.luks.devices = {
     crypted = {
-      device = "/dev/disk/by-uuid/<the uuid of /dev/sda3";
+      device = "/dev/disk/by-uuid/<UUID OF SDA4!!>";
       preLVM = false; # LVM loads first then the crypt is there in this case
     };
   };
