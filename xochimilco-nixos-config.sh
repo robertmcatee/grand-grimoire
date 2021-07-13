@@ -1,6 +1,12 @@
 sudo nixos-generate-config --root /mnt
 
+# get the disk UUID for sda3
+ls -lha /dev/disk/by-uuid
+
 # Edit my config file to include LUKS stuff
+sudo nano /mnt/etc/nixos/hardware-configuration.nix
+sudo nano /mnt/etc/nixos/configuration.nix
+
 # grub
   boot.loader.grub = {
     enable = true;
