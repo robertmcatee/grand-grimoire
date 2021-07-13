@@ -13,14 +13,14 @@ sudo nano /mnt/etc/nixos/configuration.nix
     version = 2;
     efiSupport = true;
     enableCryptodisk = true;
-    device = "nodev";
+    device = "/dev/sda";
   };
 
 # luks
   boot.initrd.luks.devices = {
     crypted = {
-      device = "/dev/disk/by-uuid/<the uuid of /dev/sda2 in this example>";
-      preLVM = true;
+      device = "/dev/disk/by-uuid/<the uuid of /dev/sda3";
+      preLVM = false; # LVM loads first then the crypt is there in this case
     };
   };
 
