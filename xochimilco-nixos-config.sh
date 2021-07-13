@@ -36,6 +36,15 @@ sudo nano /mnt/etc/nixos/configuration.nix
     uid = 1000;
   };
 
+  users.extraUsers.robertmcatee = {
+    home = "/home/robertmcatee";
+    description = "Robert McAtee";
+    extraGroups = [ 
+      "networkmanager"
+    ];
+    isNormalUser = true;
+    uid = 1001;
+  };
 sudo nixos-install
 
 sudo reboot
