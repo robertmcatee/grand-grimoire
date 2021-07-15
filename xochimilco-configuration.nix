@@ -90,6 +90,29 @@
   #   isNormalUser = true;
   #   extraGroups = [ "wheel" ]; # Enable ‘sudo’ for the user.
   # };
+  
+# Define a user account. Don't forget to set a password with ‘passwd’.
+  users.extraUsers.sagamore = {
+    home = "/home/sagamore";
+    description = "Sagamore";
+    extraGroups = [ 
+      "networkmanager"
+      "wheel"
+    ];
+    isNormalUser = true;
+    uid = 1000;
+  };
+
+  users.extraUsers.robertmcatee = {
+    home = "/home/robertmcatee";
+    description = "Robert McAtee";
+    extraGroups = [ 
+      "networkmanager"
+    ];
+    isNormalUser = true;
+    uid = 1001;
+  };
+
 
   # List packages installed in system profile. To search, run:
   # $ nix search wget
