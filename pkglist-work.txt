@@ -3,6 +3,7 @@ autoconf
 automake
 baobab
 base
+bind
 binutils
 bison
 btrfs-progs
@@ -11,6 +12,7 @@ chrome-gnome-shell
 chromium
 clementine
 containerd
+dropbox
 efibootmgr
 emacs
 eog
@@ -70,6 +72,8 @@ groff
 gst-libav
 gst-plugin-pipewire
 gst-plugins-ugly
+guile-commonmark
+guile-reader
 gvfs
 gvfs-afc
 gvfs-goa
@@ -79,6 +83,7 @@ gvfs-mtp
 gvfs-nfs
 gvfs-smb
 gzip
+haunt
 htop
 inkscape
 intel-media-driver
@@ -94,10 +99,12 @@ linux
 linux-firmware
 m4
 make
+mc
 mercurial
 mutter
 nano
 nautilus
+nautilus-dropbox
 neofetch
 nerdctl-bin
 networkmanager
@@ -127,6 +134,8 @@ smartmontools
 sudo
 sushi
 texinfo
+texlive-core
+texlive-latexextra
 totem
 tracker
 tracker-miners
