@@ -1,7 +1,14 @@
 (use-modules (gnu))
 (use-service-modules desktop networking ssh xorg)
+;; Import nonfree linux module - as needed
+;;(use-modules (nongnu packages linux)
+;;             (nongnu system linux-initrd))
 
 (operating-system
+;; Import non free linux - as needed
+;;  (kernel linux)
+;;  (initrd microcode-initrd)
+;;  (firmware (list linux-firmware)) 
   (locale "en_US.utf8")
   (timezone "America/Chicago")
   (keyboard-layout (keyboard-layout "us"))
@@ -30,8 +37,12 @@
               (append (list "https://substitutes.nonguix.org") %default-substitute-urls))
             (authorized-keys
               (append (list (local-file "./signing-key.pub")) %default-authorized-guix-keys)))))))
-
-  (bootloader
+;; 1. download signing-key.pub directly from https://substitutes.nonguix.org/signing-key.pub and place in /etc/ folder
+;; 2. perform guix pull
+;; 3. sudo guix archive --authorize < signing-key.pub
+;; 4. sudo guix system reconfigure /etc/config.scm --substitute-urls='https://ci.guix.gnu.org https://bordeaux.guix.gnu.org https://substitutes.nonguix.org'
+ 
+ (bootloader
     (bootloader-configuration
       (bootloader grub-bootloader)
       (target "/dev/sda")
