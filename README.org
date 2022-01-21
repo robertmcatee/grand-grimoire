@@ -2,44 +2,45 @@
 A grimoire, containing my recipes for different things.
 ** Setup a New Machine
 *** Perform the Arch Linux Install
-    - config.json
+- config.json
 **** OR the Guix System
-    - config.scm
-    - channels.scm
+- config.scm
+- channels.scm
 *** Install Packages
 **** Pacman
-     - firefox (should have been installed with config.json)
+- pacman-contrib
+- firefox (should have been installed with config.json)
 **** AUR
-     - chrome-gnome-shell 10.1-5
+- chrome-gnome-shell 10.1-5
 *** Install Guix and Apply the Guix Home Config
-    - config-home.scm
+- config-home.scm
 *** Setup Syncing and VPN Options
-    - Dropbox, through AUR
-    - Syncthing, through Guix
-    - openconnect VPN sometimes needed
+- Dropbox, through AUR
+- Syncthing, through Guix
+- openconnect VPN sometimes needed
 *** Setup Gnome Extensions and Themes
 **** Firefox Add-In
-     - Gnome Extensions Firefox Add-In
+- Gnome Extensions Firefox Add-In
 **** Gnome Extensions
-     - Arch Linux Updates Indicator
-     - Bing Wallpaper
-     - Burn My Windows
-     - Caffeine
-     - Dash to Dock
-     - User Themes
+- Arch Linux Updates Indicator
+- Bing Wallpaper
+- Burn My Windows
+- Caffeine
+- Dash to Dock
+- User Themes
 **** Themes
-     - Orchis Theme
+- Orchis Theme
 **** Dock Configuration
-     - Software
-     - Terminal
-     - Files
-     - Gnome Web
-     - KeePassXC
-     - Emacs
-     - Clementine
-     - Video
-     - Outlook(PWA) OR Geary, Calendar, Contacts, Todo
-     - Teams(Chromium) OR Signal
-     - Remmina
-     - Calculator
-     - Screen Capture
+- Software
+- Terminal
+- Files
+- Gnome Web
+- KeePassXC
+- Emacs
+- Clementine
+- Video
+- Outlook(PWA) OR Geary, Calendar, Contacts, Todo
+- Teams(Chromium) OR Signal
+- Remmina
+- Calculator
+- Screen Capture
