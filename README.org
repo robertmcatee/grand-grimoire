@@ -28,6 +28,8 @@ A grimoire, containing my recipes for different things.
 - Caffeine
 - Dash to Dock
 - User Themes
+- Forge
+- Improved Workspace Indicator
 **** Themes
 - Orchis Theme
 **** Dock Configuration
