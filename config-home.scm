@@ -8,7 +8,7 @@
 (home-environment
  (packages
   (map (compose list specification->package+output)
-       (list "git" "syncthing-gtk" "emacs" "keepassxc" "clementine" "neofetch" "nmap" "glibc-locales" "nss-certs")))
+       (list "git" "syncthing-gtk" "haunt" "remmina" "emacs" "keepassxc" "clementine" "neofetch" "nmap" "glibc-locales" "nss-certs")))
  (services
   (list (service
 	 home-bash-service-type
