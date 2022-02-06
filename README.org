@@ -15,6 +15,7 @@ A grimoire, containing my recipes for different things.
 *** Install Guix and Apply the Guix Home Config
 - config-home.scm
 *** Setup Syncing and VPN Options
+- OneDrive
 - Dropbox, through AUR
 - Syncthing, through Guix
 - openconnect VPN sometimes needed
