@@ -8,7 +8,7 @@
 (home-environment
  (packages
   (map (compose list specification->package+output)
-       (list "git" "syncthing-gtk" "haunt" "remmina" "emacs" "keepassxc" "clementine" "neofetch" "nmap" "glibc-locales" "nss-certs")))
+       (list "git" "syncthing-gtk" "haunt" "remmina" "emacs" "keepassxc" "clementine" "neofetch" "nmap" "guile" "glibc-locales" "nss-certs")))
  (services
   (list (service
 	 home-bash-service-type
@@ -16,7 +16,8 @@
 	  ;;(guix-defaults? #f)
 	  (environment-variables '(("SSL_CERT_DIR" . "$HOME/.guix-home/profile/etc/ssl/certs")
 				   ("SSL_CERT_FILE" . "$HOME/.guix-home/profile/etc/ssl/certs/ca-certificates.crt")
-				   ("GIT_SSL_CAINFO" . "$SSL_CERT_FILE")))
+				   ("GIT_SSL_CAINFO" . "$SSL_CERT_FILE")
+                                   ("GUIX_LOCPATH" . "$HOME/.guix-profile/lib/locale")))
 				   ;;("PS1" . "'\\[\\e[1;31m\\][\\u@\\h \\W]\\[\\e[0m\\]\\$ '")))
 	  (aliases '(("lsa" . "ls -la --color=auto")
 		     ("emacs" . "TERM=xterm-direct emacs -nw")))
