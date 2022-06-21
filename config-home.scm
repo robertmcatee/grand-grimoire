@@ -8,7 +8,7 @@
 (home-environment
  (packages
   (map (compose list specification->package+output)
-       (list "git" "syncthing-gtk" "haunt" "remmina" "emacs" "keepassxc" "clementine" "neofetch" "nmap" "guile" "glibc-locales" "nss-certs")))
+       (list "git" "syncthing-gtk" "haunt" "remmina" "emacs" "keepassxc" "vlc" "neofetch" "nmap" "guile" "glibc-locales" "nss-certs")))
        ;; glibc-locales must be installed using guix install glic-locales otherwise it won't work
  (services
   (list (service
