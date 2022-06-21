@@ -10,18 +10,16 @@ A grimoire, containing my recipes for different things.
 **** Pacman
 - pacman-contrib
 - firefox (should have been installed with config.json)
-**** AUR
-- chrome-gnome-shell 10.1-5
 *** Install Guix and Apply the Guix Home Config
 - config-home.scm
 *** Setup Syncing and VPN Options
 - OneDrive
-- Dropbox, through AUR
 - Syncthing, through Guix
 - openconnect VPN sometimes needed
 *** Setup Gnome Extensions and Themes
-**** Firefox Add-In
-- Gnome Extensions Firefox Add-In
+**** Flatpaks
+- Extensions
+- Extensions Manager
 **** Gnome Extensions
 - Arch Linux Updates Indicator
 - Bing Wallpaper
@@ -31,19 +29,26 @@ A grimoire, containing my recipes for different things.
 - User Themes
 - Forge
 - Improved Workspace Indicator
+- Gsconnect
 **** Themes
 - Orchis Theme
 **** Dock Configuration
 - Software
-- Terminal
 - Files
-- Gnome Web
-- KeePassXC
+- Terminal
 - Emacs
-- Clementine
-- Video
+- Firefox
+- Thunderbird
+- Signal
+- KeePassXC
+- Logseq
+- Geany
+- VLC
+- Syncthing
+**** Other Apps
 - Outlook(PWA) OR Geary, Calendar, Contacts, Todo
 - Teams(Chromium) OR Signal
 - Remmina
 - Calculator
 - Screen Capture
+- gitg
