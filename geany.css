@@ -1,0 +1,84 @@
+/* Add these rules to the top of geany.css file to make dark */
+
+* {
+    background-color: #073642;
+    border-color: #002b36;
+    color: #839496;
+}
+
+.flat, .text-button, .image-button {
+    background-color: #073642;
+}
+
+*:hover,
+*:hover>* {
+    color: #dc322f;
+}
+
+
+
+
+
+
+/* GtkLockButton CSS was not defined in GTK doc so assumed .lock */
+.toggle, .popup, .scale, .lock, .color, .font, .file {
+    background-color: #073642;
+}
+
+
+
+
+.suggested-action {
+    background-color: red;
+}
+
+.destructive-action {
+    background-color: red;
+}
+
+button {
+    background-color: red;
+    color: red;
+}
+
+.button {
+    background-color: red;
+}
+
+.button:hover {
+    transition: 300ms ease-in-out;
+    background-color: red;
+}
+
+
+.solarized {
+    background-color: red;
+/*
+
+Color
+Base03	#002b36	brblack
+Base02	#073642	black
+
+Content
+Base01	#586e75	brgreen
+Base00	#657b83	bryellow
+Base0	#839496	brblue
+Base1	#93a1a1	brcyan
+
+Light Background
+Base2	#eee8d5	white
+Base3	#fdf6e3	brwhite
+
+Accents
+Yellow	#b58900	yellow
+Orange	#cb4b16	brred
+Red		#dc322f	red
+Magenta	#d33682	magenta
+Violet	#6c71c4	brmagenta
+Blue	#268bd2	blue
+Cyan	#2aa198	cyan
+Green	#859900	green
+
+*/
+
+}
