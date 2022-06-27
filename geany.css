@@ -6,56 +6,27 @@
     color: #839496;
 }
 
-.flat, .text-button, .image-button {
-    background-color: #073642;
+label, box {
+    background-color: initial;
 }
 
-*:hover,
-*:hover>* {
-    color: #dc322f;
+
+*:hover, *:hover > * {
+    background-color: #eee8d5;
 }
 
 button {
     background-image: none;
     border-style: none;
     border-radius: 0;
+    text-shadow: none;
 }
 
 button:hover {
     border-style: none;
     border-radius: 0;
+    transition-property: none;
 }
-
-/*
-button, entry, spinbutton, checkbutton {
-background-image: none;
-    background-color: red;
-    color: red;
-    border-color: red;
-    border-style: none;
-    border-radius: 0;
-}
-*/
-
-/* https://docs.gtk.org/gtk3/css-overview.html */
-/* GtkLockButton CSS was not defined in GTK doc so assumed .lock */
-.toggle, .popup, .scale, .lock, .color, .font, .file {
-    background-color: #073642;
-}
-
-
-
-
-.suggested-action {
-    background-color: red;
-}
-
-.destructive-action {
-    background-color: red;
-}
-
-
-
 
 .solarized {
     background-color: red;
