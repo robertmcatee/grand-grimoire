@@ -1,39 +1,44 @@
+/* https://github.com/geany/geany/issues/1344 */
 /* Add these rules to the top of geany.css file to make dark */
 
 * {
-    background-color: #002b36;
-    border-color: #073642;
-    color: #839496;
+  background-color: #002b36;
+  border-color: #073642;
+  color: #839496;
 }
 
 label, box {
-    background-color: initial;
+  background-color: initial;
 }
 
+separator  {
+  background-color: #073642;
+  border: 1px solid #073642;
+}
 
 *:hover, *:hover > * {
-    background-color: #073642;
+  background-color: #073642;
 }
 
 selection  {
-    background-color: #073642;
+  background-color: #073642;
 }
 
 button {
-    background-image: none;
-    border-style: none;
-    border-radius: 0;
-    text-shadow: none;
+  background-image: none;
+  border-style: none;
+  border-radius: 0;
+  text-shadow: none;
 }
 
 button:hover {
-    border-style: none;
-    border-radius: 0;
-    transition-property: none;
+  border-style: none;
+  border-radius: 0;
+  transition-property: none;
 }
 
 .solarized {
-    background-color: red;
+  background-color: red;
 /*
 
 Color
