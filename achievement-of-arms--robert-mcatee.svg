@@ -29,9 +29,9 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
-   inkscape:zoom="0.40887894"
-   inkscape:cx="343.62249"
-   inkscape:cy="843.77053"
+   inkscape:zoom="0.50077678"
+   inkscape:cx="256.60136"
+   inkscape:cy="633.01658"
    inkscape:window-width="1920"
    inkscape:window-height="1009"
    inkscape:window-x="1358"
@@ -857,178 +857,6 @@
                      </foreignObject>
                      <g
    id="g1245"><g
-     id="Layer_1-6"
-     transform="matrix(0.39339413,0,0,0.39339413,517.07469,455.92737)"
-     style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                          <g
-   id="g14-0"
-   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                 <path
-   stroke-miterlimit="10"
-   d="m 998.1,201.2 c 0,0 11,-2.6 17.5,-8.1 6.1,-5.1 7.7,-16.9 1.7,-24.1 -16.6,-19.7 -86.9,-48.1 -86.9,-48.1 z"
-   id="path16"
-   inkscape:connector-curvature="0"
-   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
-                                                 <path
-   stroke-miterlimit="10"
-   d="m 578.7,-295.4 431.8,511.3 c 0,0 -1.4,2.5 -4.1,4.8 -2.7,2.3 -5.8,2.8 -5.8,2.8 L 568.8,-287.9 Z"
-   id="path18"
-   inkscape:connector-curvature="0"
-   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
-                                                 <g
-   id="g20"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="946.1,141 946.9,139.2 980.5,154.7 "
-   id="polygon22"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g24"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="964.2,162.3 964.7,160.4 992.8,169.5 "
-   id="polygon26"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g28"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="979.7,180.6 980.2,178.7 1008.2,186.7 "
-   id="polygon30"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <path
-   stroke-miterlimit="10"
-   d="m 988.6,209.3 c 0,0 -4.4,10.4 -10.9,15.9 -6.1,5.1 -18,4.7 -24,-2.4 C 937,203.1 920.8,129 920.8,129 Z"
-   id="path32"
-   inkscape:connector-curvature="0"
-   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
-                                                 <g
-   id="g34"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="936,148.4 937.9,147.9 945.6,184.1 "
-   id="polygon36"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g38"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="953.9,169.5 955.9,169.3 958.2,198.7 "
-   id="polygon40"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g42"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="969.4,187.8 971.4,187.6 972.6,216.7 "
-   id="polygon44"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <path
-   stroke-miterlimit="10"
-   d="m 562.7,-285.5 c 2.8,3.3 8.7,1.7 14,-2.7 5.3,-4.4 7.8,-10.1 5,-13.4 -2.8,-3.3 -8.7,-1.7 -14,2.7 -5.2,4.5 -7.8,10.2 -5,13.4 z"
-   id="path46"
-   inkscape:connector-curvature="0"
-   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
-                                                 <path
-   stroke-miterlimit="10"
-   d="m 566.1,-288.6 -26.2,-35.6 10.1,40.1 -20.6,17.4 -0.4,-78.1 76.9,13.5 -20.6,17.4 -37.8,-16.7 30.7,31.8 c 0,0 -0.4,3.2 -4.6,6.7 -4.4,3.6 -7.5,3.5 -7.5,3.5 z"
-   id="path48"
-   inkscape:connector-curvature="0"
-   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" />
-                                          </g>
-                                          <g
-   id="g50"
-   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                 <path
-   stroke-miterlimit="10"
-   d="m 623,201.2 c 0,0 -11,-2.6 -17.5,-8.1 -6.1,-5.1 -7.7,-16.9 -1.7,-24.1 16.6,-19.7 86.9,-48.1 86.9,-48.1 z"
-   id="path52"
-   inkscape:connector-curvature="0"
-   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
-                                                 <path
-   stroke-miterlimit="10"
-   d="M 1042.4,-295.4 610.6,215.9 c 0,0 1.4,2.5 4.1,4.8 2.7,2.3 5.8,2.8 5.8,2.8 l 431.8,-511.3 z"
-   id="path54"
-   inkscape:connector-curvature="0"
-   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
-                                                 <g
-   id="g56"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="640.6,154.7 674.2,139.2 675,141 "
-   id="polygon58"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g60"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="628.3,169.5 656.4,160.4 656.9,162.3 "
-   id="polygon62"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g64"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="613,186.7 640.9,178.7 641.4,180.6 "
-   id="polygon66"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <path
-   stroke-miterlimit="10"
-   d="m 632.5,209.3 c 0,0 4.4,10.4 10.9,15.9 6.1,5.1 18,4.7 24,-2.4 C 684,203.1 700.3,129 700.3,129 Z"
-   id="path68"
-   inkscape:connector-curvature="0"
-   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
-                                                 <g
-   id="g70"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="675.5,184.1 683.2,147.9 685.1,148.4 "
-   id="polygon72"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g74"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="662.9,198.7 665.2,169.3 667.2,169.5 "
-   id="polygon76"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g78"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="648.5,216.7 649.7,187.6 651.7,187.8 "
-   id="polygon80"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <path
-   stroke-miterlimit="10"
-   d="m 1058.4,-285.5 c -2.8,3.3 -8.7,1.7 -14,-2.7 -5.3,-4.4 -7.8,-10.1 -5,-13.4 2.8,-3.3 8.7,-1.7 14,2.7 5.2,4.5 7.8,10.2 5,13.4 z"
-   id="path82"
-   inkscape:connector-curvature="0"
-   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
-                                                 <path
-   stroke-miterlimit="10"
-   d="m 1055,-288.6 26.2,-35.6 -10.1,40.1 20.7,17.4 0.4,-78.1 -76.9,13.5 20.6,17.4 37.8,-16.7 -30.7,31.8 c 0,0 0.4,3.2 4.6,6.7 4.3,3.6 7.4,3.5 7.4,3.5 z"
-   id="path84"
-   inkscape:connector-curvature="0"
-   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" />
-                                          </g>
-
-
-
-
-                                   </g><g
      id="Layer_1-6-8"
      style="display:inline;fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none"
      transform="matrix(0.39339413,0,0,0.39339413,479.59068,455.92737)">
@@ -1047,60 +875,18 @@
    id="path18-9"
    inkscape:connector-curvature="0"
    style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
-                                                 <g
-   id="g20-8"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="946.9,139.2 980.5,154.7 946.1,141 "
-   id="polygon22-7"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g24-3"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="964.7,160.4 992.8,169.5 964.2,162.3 "
-   id="polygon26-3"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g28-0"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="980.2,178.7 1008.2,186.7 979.7,180.6 "
-   id="polygon30-1"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
+                                                 
+                                                 
+                                                 
                                                  <path
    stroke-miterlimit="10"
    d="m 988.6,209.3 c 0,0 -4.4,10.4 -10.9,15.9 -6.1,5.1 -18,4.7 -24,-2.4 C 937,203.1 920.8,129 920.8,129 Z"
    id="path32-1"
    inkscape:connector-curvature="0"
    style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
-                                                 <g
-   id="g34-8"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="937.9,147.9 945.6,184.1 936,148.4 "
-   id="polygon36-0"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g38-4"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="955.9,169.3 958.2,198.7 953.9,169.5 "
-   id="polygon40-8"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g42-5"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="971.4,187.6 972.6,216.7 969.4,187.8 "
-   id="polygon44-3"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
+                                                 
+                                                 
+                                                 
                                                  <path
    stroke-miterlimit="10"
    d="m 562.7,-285.5 c 2.8,3.3 8.7,1.7 14,-2.7 5.3,-4.4 7.8,-10.1 5,-13.4 -2.8,-3.3 -8.7,-1.7 -14,2.7 -5.2,4.5 -7.8,10.2 -5,13.4 z"
@@ -1112,101 +898,146 @@
    d="m 566.1,-288.6 -26.2,-35.6 10.1,40.1 -20.6,17.4 -0.4,-78.1 76.9,13.5 -20.6,17.4 -37.8,-16.7 30.7,31.8 c 0,0 -0.4,3.2 -4.6,6.7 -4.4,3.6 -7.5,3.5 -7.5,3.5 z"
    id="path48-7"
    inkscape:connector-curvature="0"
-   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" />
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" /><g
+   id="g2009"
+   style="display:inline;fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none"
+   transform="translate(-2.892434e-6)"><g
+     id="g20-8"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="946.9,139.2 980.5,154.7 946.1,141 "
+   id="polygon22-7"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g24-3"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="964.7,160.4 992.8,169.5 964.2,162.3 "
+   id="polygon26-3"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g28-0"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="980.2,178.7 1008.2,186.7 979.7,180.6 "
+   id="polygon30-1"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g34-8"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="937.9,147.9 945.6,184.1 936,148.4 "
+   id="polygon36-0"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g38-4"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="955.9,169.3 958.2,198.7 953.9,169.5 "
+   id="polygon40-8"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g42-5"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="971.4,187.6 972.6,216.7 969.4,187.8 "
+   id="polygon44-3"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g></g>
                                           </g>
-                                          <g
-   id="g50-0"
-   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                 <path
-   stroke-miterlimit="10"
-   d="m 623,201.2 c 0,0 -11,-2.6 -17.5,-8.1 -6.1,-5.1 -7.7,-16.9 -1.7,-24.1 16.6,-19.7 86.9,-48.1 86.9,-48.1 z"
-   id="path52-3"
-   inkscape:connector-curvature="0"
-   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
-                                                 <path
-   stroke-miterlimit="10"
-   d="M 1042.4,-295.4 610.6,215.9 c 0,0 1.4,2.5 4.1,4.8 2.7,2.3 5.8,2.8 5.8,2.8 l 431.8,-511.3 z"
-   id="path54-2"
-   inkscape:connector-curvature="0"
-   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
-                                                 <g
-   id="g56-5"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="674.2,139.2 675,141 640.6,154.7 "
-   id="polygon58-1"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g60-4"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="656.4,160.4 656.9,162.3 628.3,169.5 "
-   id="polygon62-8"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g64-3"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="640.9,178.7 641.4,180.6 613,186.7 "
-   id="polygon66-3"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <path
-   stroke-miterlimit="10"
-   d="m 632.5,209.3 c 0,0 4.4,10.4 10.9,15.9 6.1,5.1 18,4.7 24,-2.4 C 684,203.1 700.3,129 700.3,129 Z"
-   id="path68-0"
-   inkscape:connector-curvature="0"
-   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
-                                                 <g
-   id="g70-8"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="683.2,147.9 685.1,148.4 675.5,184.1 "
-   id="polygon72-4"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g74-3"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="665.2,169.3 667.2,169.5 662.9,198.7 "
-   id="polygon76-4"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g78-7"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="649.7,187.6 651.7,187.8 648.5,216.7 "
-   id="polygon80-4"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <path
-   stroke-miterlimit="10"
-   d="m 1058.4,-285.5 c -2.8,3.3 -8.7,1.7 -14,-2.7 -5.3,-4.4 -7.8,-10.1 -5,-13.4 2.8,-3.3 8.7,-1.7 14,2.7 5.2,4.5 7.8,10.2 5,13.4 z"
-   id="path82-2"
-   inkscape:connector-curvature="0"
-   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
-                                                 <path
-   stroke-miterlimit="10"
-   d="m 1055,-288.6 26.2,-35.6 -10.1,40.1 20.7,17.4 0.4,-78.1 -76.9,13.5 20.6,17.4 37.8,-16.7 -30.7,31.8 c 0,0 0.4,3.2 4.6,6.7 4.3,3.6 7.4,3.5 7.4,3.5 z"
-   id="path84-7"
-   inkscape:connector-curvature="0"
-   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" />
-                                          </g>
+                                          
 
 
 
 
-                                   </g><g
-     id="Layer_1-6-3"
-     style="display:inline;fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none"
-     transform="matrix(0.39339413,0,0,0.39339413,556.9618,455.92737)">
-                                          <g
+                                   <g
+   id="g14-0"
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none"
+   transform="translate(95.283603)">
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 998.1,201.2 c 0,0 11,-2.6 17.5,-8.1 6.1,-5.1 7.7,-16.9 1.7,-24.1 -16.6,-19.7 -86.9,-48.1 -86.9,-48.1 z"
+   id="path16"
+   inkscape:connector-curvature="0"
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 578.7,-295.4 431.8,511.3 c 0,0 -1.4,2.5 -4.1,4.8 -2.7,2.3 -5.8,2.8 -5.8,2.8 L 568.8,-287.9 Z"
+   id="path18"
+   inkscape:connector-curvature="0"
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 
+                                                 
+                                                 
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 988.6,209.3 c 0,0 -4.4,10.4 -10.9,15.9 -6.1,5.1 -18,4.7 -24,-2.4 C 937,203.1 920.8,129 920.8,129 Z"
+   id="path32"
+   inkscape:connector-curvature="0"
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 
+                                                 
+                                                 
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 562.7,-285.5 c 2.8,3.3 8.7,1.7 14,-2.7 5.3,-4.4 7.8,-10.1 5,-13.4 -2.8,-3.3 -8.7,-1.7 -14,2.7 -5.2,4.5 -7.8,10.2 -5,13.4 z"
+   id="path46"
+   inkscape:connector-curvature="0"
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 566.1,-288.6 -26.2,-35.6 10.1,40.1 -20.6,17.4 -0.4,-78.1 76.9,13.5 -20.6,17.4 -37.8,-16.7 30.7,31.8 c 0,0 -0.4,3.2 -4.6,6.7 -4.4,3.6 -7.5,3.5 -7.5,3.5 z"
+   id="path48"
+   inkscape:connector-curvature="0"
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" /><g
+   id="g1831"
+   style="display:inline;fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none"><g
+     id="g20"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="946.1,141 946.9,139.2 980.5,154.7 "
+   id="polygon22"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g24"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="964.2,162.3 964.7,160.4 992.8,169.5 "
+   id="polygon26"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g28"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="979.7,180.6 980.2,178.7 1008.2,186.7 "
+   id="polygon30"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g34"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="936,148.4 937.9,147.9 945.6,184.1 "
+   id="polygon36"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g38"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="953.9,169.5 955.9,169.3 958.2,198.7 "
+   id="polygon40"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g42"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="969.4,187.8 971.4,187.6 972.6,216.7 "
+   id="polygon44"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g></g>
+                                          </g><g
    id="g14-0-4"
-   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none"
+   transform="translate(196.67583)">
                                                  <path
    stroke-miterlimit="10"
    d="m 998.1,201.2 c 0,0 11,-2.6 17.5,-8.1 6.1,-5.1 7.7,-16.9 1.7,-24.1 -16.6,-19.7 -86.9,-48.1 -86.9,-48.1 z"
@@ -1219,60 +1050,18 @@
    id="path18-91"
    inkscape:connector-curvature="0"
    style="display:inline;fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
-                                                 <g
-   id="g20-6"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="980.5,154.7 946.1,141 946.9,139.2 "
-   id="polygon22-5"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g24-31"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="992.8,169.5 964.2,162.3 964.7,160.4 "
-   id="polygon26-8"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g28-5"
-   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="980.2,178.7 1008.2,186.7 979.7,180.6 "
-   id="polygon30-5"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
+                                                 
+                                                 
+                                                 
                                                  <path
    stroke-miterlimit="10"
    d="m 988.6,209.3 c 0,0 -4.4,10.4 -10.9,15.9 -6.1,5.1 -18,4.7 -24,-2.4 C 937,203.1 920.8,129 920.8,129 Z"
    id="path32-5"
    inkscape:connector-curvature="0"
    style="display:inline;fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
-                                                 <g
-   id="g34-1"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="945.6,184.1 936,148.4 937.9,147.9 "
-   id="polygon36-8"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g38-0"
-   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="955.9,169.3 958.2,198.7 953.9,169.5 "
-   id="polygon40-3"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g42-4"
-   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="971.4,187.6 972.6,216.7 969.4,187.8 "
-   id="polygon44-32"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
+                                                 
+                                                 
+                                                 
                                                  <path
    stroke-miterlimit="10"
    d="m 562.7,-285.5 c 2.8,3.3 8.7,1.7 14,-2.7 5.3,-4.4 7.8,-10.1 5,-13.4 -2.8,-3.3 -8.7,-1.7 -14,2.7 -5.2,4.5 -7.8,10.2 -5,13.4 z"
@@ -1284,97 +1073,309 @@
    d="m 566.1,-288.6 -26.2,-35.6 10.1,40.1 -20.6,17.4 -0.4,-78.1 76.9,13.5 -20.6,17.4 -37.8,-16.7 30.7,31.8 c 0,0 -0.4,3.2 -4.6,6.7 -4.4,3.6 -7.5,3.5 -7.5,3.5 z"
    id="path48-1"
    inkscape:connector-curvature="0"
-   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" />
-                                          </g>
-                                          <g
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" /><g
+   id="g1500"
+   style="display:inline;fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none"
+   transform="translate(-9.2518861e-6)"><g
+     id="g20-6"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="946.1,141 946.9,139.2 980.5,154.7 "
+   id="polygon22-5"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g24-31"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="964.2,162.3 964.7,160.4 992.8,169.5 "
+   id="polygon26-8"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g28-5"
+     style="display:inline;fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="1008.2,186.7 979.7,180.6 980.2,178.7 "
+   id="polygon30-5"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g34-1"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="936,148.4 937.9,147.9 945.6,184.1 "
+   id="polygon36-8"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g38-0"
+     style="display:inline;fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="958.2,198.7 953.9,169.5 955.9,169.3 "
+   id="polygon40-3"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g42-4"
+     style="display:inline;fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="972.6,216.7 969.4,187.8 971.4,187.6 "
+   id="polygon44-32"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g></g>
+                                          </g><g
+   id="g50-0"
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none"
+   transform="translate(-2.892434e-6)">
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 623,201.2 c 0,0 -11,-2.6 -17.5,-8.1 -6.1,-5.1 -7.7,-16.9 -1.7,-24.1 16.6,-19.7 86.9,-48.1 86.9,-48.1 z"
+   id="path52-3"
+   inkscape:connector-curvature="0"
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 <path
+   stroke-miterlimit="10"
+   d="M 1042.4,-295.4 610.6,215.9 c 0,0 1.4,2.5 4.1,4.8 2.7,2.3 5.8,2.8 5.8,2.8 l 431.8,-511.3 z"
+   id="path54-2"
+   inkscape:connector-curvature="0"
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 
+                                                 
+                                                 
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 632.5,209.3 c 0,0 4.4,10.4 10.9,15.9 6.1,5.1 18,4.7 24,-2.4 C 684,203.1 700.3,129 700.3,129 Z"
+   id="path68-0"
+   inkscape:connector-curvature="0"
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 
+                                                 
+                                                 
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 1058.4,-285.5 c -2.8,3.3 -8.7,1.7 -14,-2.7 -5.3,-4.4 -7.8,-10.1 -5,-13.4 2.8,-3.3 8.7,-1.7 14,2.7 5.2,4.5 7.8,10.2 5,13.4 z"
+   id="path82-2"
+   inkscape:connector-curvature="0"
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 1055,-288.6 26.2,-35.6 -10.1,40.1 20.7,17.4 0.4,-78.1 -76.9,13.5 20.6,17.4 37.8,-16.7 -30.7,31.8 c 0,0 0.4,3.2 4.6,6.7 4.3,3.6 7.4,3.5 7.4,3.5 z"
+   id="path84-7"
+   inkscape:connector-curvature="0"
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" /><g
+   id="g1514"
+   style="display:inline;fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none"
+   transform="translate(-2.892434e-6)"><g
+     id="g56-5"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="674.2,139.2 675,141 640.6,154.7 "
+   id="polygon58-1"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g60-4"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="656.4,160.4 656.9,162.3 628.3,169.5 "
+   id="polygon62-8"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g64-3"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="640.9,178.7 641.4,180.6 613,186.7 "
+   id="polygon66-3"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g70-8"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="683.2,147.9 685.1,148.4 675.5,184.1 "
+   id="polygon72-4"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g74-3"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="665.2,169.3 667.2,169.5 662.9,198.7 "
+   id="polygon76-4"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g78-7"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="649.7,187.6 651.7,187.8 648.5,216.7 "
+   id="polygon80-4"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g></g>
+                                          </g><g
+   id="g50"
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none"
+   transform="translate(95.283603)">
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 623,201.2 c 0,0 -11,-2.6 -17.5,-8.1 -6.1,-5.1 -7.7,-16.9 -1.7,-24.1 16.6,-19.7 86.9,-48.1 86.9,-48.1 z"
+   id="path52"
+   inkscape:connector-curvature="0"
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 <path
+   stroke-miterlimit="10"
+   d="M 1042.4,-295.4 610.6,215.9 c 0,0 1.4,2.5 4.1,4.8 2.7,2.3 5.8,2.8 5.8,2.8 l 431.8,-511.3 z"
+   id="path54"
+   inkscape:connector-curvature="0"
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 
+                                                 
+                                                 
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 632.5,209.3 c 0,0 4.4,10.4 10.9,15.9 6.1,5.1 18,4.7 24,-2.4 C 684,203.1 700.3,129 700.3,129 Z"
+   id="path68"
+   inkscape:connector-curvature="0"
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 
+                                                 
+                                                 
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 1058.4,-285.5 c -2.8,3.3 -8.7,1.7 -14,-2.7 -5.3,-4.4 -7.8,-10.1 -5,-13.4 2.8,-3.3 8.7,-1.7 14,2.7 5.2,4.5 7.8,10.2 5,13.4 z"
+   id="path82"
+   inkscape:connector-curvature="0"
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 1055,-288.6 26.2,-35.6 -10.1,40.1 20.7,17.4 0.4,-78.1 -76.9,13.5 20.6,17.4 37.8,-16.7 -30.7,31.8 c 0,0 0.4,3.2 4.6,6.7 4.3,3.6 7.4,3.5 7.4,3.5 z"
+   id="path84"
+   inkscape:connector-curvature="0"
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" /><g
+   id="g1528"
+   style="display:inline;fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none"><g
+     id="g56"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="640.6,154.7 674.2,139.2 675,141 "
+   id="polygon58"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g60"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="628.3,169.5 656.4,160.4 656.9,162.3 "
+   id="polygon62"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g64"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="613,186.7 640.9,178.7 641.4,180.6 "
+   id="polygon66"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g70"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="675.5,184.1 683.2,147.9 685.1,148.4 "
+   id="polygon72"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g74"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="662.9,198.7 665.2,169.3 667.2,169.5 "
+   id="polygon76"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g78"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="648.5,216.7 649.7,187.6 651.7,187.8 "
+   id="polygon80"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g></g>
+                                          </g><g
    id="g50-9"
-   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none"
+   transform="translate(196.67583)">
                                                  <path
    stroke-miterlimit="10"
    d="m 623,201.2 c 0,0 -11,-2.6 -17.5,-8.1 -6.1,-5.1 -7.7,-16.9 -1.7,-24.1 16.6,-19.7 86.9,-48.1 86.9,-48.1 z"
    id="path52-8"
    inkscape:connector-curvature="0"
-   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
                                                  <path
    stroke-miterlimit="10"
    d="M 1042.4,-295.4 610.6,215.9 c 0,0 1.4,2.5 4.1,4.8 2.7,2.3 5.8,2.8 5.8,2.8 l 431.8,-511.3 z"
    id="path54-7"
    inkscape:connector-curvature="0"
    style="display:inline;fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
-                                                 <g
-   id="g56-4"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="674.2,139.2 675,141 640.6,154.7 "
-   id="polygon58-4"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g60-9"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="656.4,160.4 656.9,162.3 628.3,169.5 "
-   id="polygon62-9"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g64-7"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="640.9,178.7 641.4,180.6 613,186.7 "
-   id="polygon66-1"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
+                                                 
+                                                 
+                                                 
                                                  <path
    stroke-miterlimit="10"
    d="m 632.5,209.3 c 0,0 4.4,10.4 10.9,15.9 6.1,5.1 18,4.7 24,-2.4 C 684,203.1 700.3,129 700.3,129 Z"
    id="path68-6"
    inkscape:connector-curvature="0"
-   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
-                                                 <g
-   id="g70-84"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="683.2,147.9 685.1,148.4 675.5,184.1 "
-   id="polygon72-8"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g74-1"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="665.2,169.3 667.2,169.5 662.9,198.7 "
-   id="polygon76-9"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
-                                                 <g
-   id="g78-5"
-   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
-                                                        <polygon
-   points="651.7,187.8 648.5,216.7 649.7,187.6 "
-   id="polygon80-3"
-   style="fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
-                                                 </g>
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 
+                                                 
+                                                 
                                                  <path
    stroke-miterlimit="10"
    d="m 1058.4,-285.5 c -2.8,3.3 -8.7,1.7 -14,-2.7 -5.3,-4.4 -7.8,-10.1 -5,-13.4 2.8,-3.3 8.7,-1.7 14,2.7 5.2,4.5 7.8,10.2 5,13.4 z"
    id="path82-9"
    inkscape:connector-curvature="0"
-   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
                                                  <path
    stroke-miterlimit="10"
    d="m 1055,-288.6 26.2,-35.6 -10.1,40.1 20.7,17.4 0.4,-78.1 -76.9,13.5 20.6,17.4 37.8,-16.7 -30.7,31.8 c 0,0 0.4,3.2 4.6,6.7 4.3,3.6 7.4,3.5 7.4,3.5 z"
    id="path84-5"
    inkscape:connector-curvature="0"
-   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" />
-                                          </g>
-
-
-
-
-                                   </g></g>
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" /><g
+   id="g1147"
+   style="display:inline;fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none"
+   transform="translate(-9.2518861e-6)"><g
+     id="g56-4"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="640.6,154.7 674.2,139.2 675,141 "
+   id="polygon58-4"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g60-9"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="628.3,169.5 656.4,160.4 656.9,162.3 "
+   id="polygon62-9"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g64-7"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="613,186.7 640.9,178.7 641.4,180.6 "
+   id="polygon66-1"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g70-84"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="675.5,184.1 683.2,147.9 685.1,148.4 "
+   id="polygon72-8"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g74-1"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="662.9,198.7 665.2,169.3 667.2,169.5 "
+   id="polygon76-9"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g78-5"
+     style="display:inline;fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="649.7,187.6 651.7,187.8 648.5,216.7 "
+   id="polygon80-3"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g></g>
+                                          </g></g></g>
               </switch><g
-   transform="matrix(0.67290653,0,0,0.67290653,366.57559,-372.95708)"
+   transform="matrix(0.68870364,0,0,0.66769612,356.10308,-370.88677)"
    id="g1364"
    inkscape:label="Snake"
    style="display:inline"><path
@@ -1593,7 +1594,285 @@
            d="m -152.66,150.14 c 0.87421,1.3862 4.9561,1.0827 3.3281,-2.1094 0.78383,0.85617 1.6458,3.3415 1.4348,5.2721 -0.66986,-2.2002 -3.7588,-1.9826 -3.0911,1.8529 z"
            id="path1352" /><path
            d="m -151.06,158.29 c -1.3837,-0.34051 -1.0526,2.4433 0.0389,2.535 0,0 0.48547,1.2589 0.52776,1.9486 -0.9397,-1.8289 -2.2173,-1.2368 -1.7915,0.008 l -1.1142,-2.1402 0.27621,-1.8341 0.69606,-0.80654 0.76235,-0.12153 z"
-           id="path1354" /></g></g></g></g>
+           id="path1354" /></g></g></g></g><switch
+   id="Arrows-8"
+   transform="matrix(1.1502667,0,0,1.1502667,-326.8625,-478.52276)"
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke-width:0.999744;stroke-dasharray:none"
+   inkscape:label="Arrows-Overlay">
+                     <foreignObject
+   requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   x="0"
+   y="0"
+   width="1"
+   height="1">
+                     </foreignObject>
+                     <g
+   id="g1245-6"><g
+     id="Layer_1-6-8-3"
+     style="display:inline;fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none"
+     transform="matrix(0.39339413,0,0,0.39339413,479.59068,455.92737)">
+                                          
+                                          
+
+
+
+
+                                   <g
+   id="g50-0-2"
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none"
+   transform="translate(-2.892434e-6)">
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 623,201.2 c 0,0 -11,-2.6 -17.5,-8.1 -6.1,-5.1 -7.7,-16.9 -1.7,-24.1 16.6,-19.7 86.9,-48.1 86.9,-48.1 z"
+   id="path52-3-0"
+   inkscape:connector-curvature="0"
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 <path
+   stroke-miterlimit="10"
+   d="M 1042.4,-295.4 610.6,215.9 c 0,0 1.4,2.5 4.1,4.8 2.7,2.3 5.8,2.8 5.8,2.8 l 431.8,-511.3 z"
+   id="path54-2-6"
+   inkscape:connector-curvature="0"
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 
+                                                 
+                                                 
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 632.5,209.3 c 0,0 4.4,10.4 10.9,15.9 6.1,5.1 18,4.7 24,-2.4 C 684,203.1 700.3,129 700.3,129 Z"
+   id="path68-0-9"
+   inkscape:connector-curvature="0"
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 
+                                                 
+                                                 
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 1058.4,-285.5 c -2.8,3.3 -8.7,1.7 -14,-2.7 -5.3,-4.4 -7.8,-10.1 -5,-13.4 2.8,-3.3 8.7,-1.7 14,2.7 5.2,4.5 7.8,10.2 5,13.4 z"
+   id="path82-2-7"
+   inkscape:connector-curvature="0"
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 1055,-288.6 26.2,-35.6 -10.1,40.1 20.7,17.4 0.4,-78.1 -76.9,13.5 20.6,17.4 37.8,-16.7 -30.7,31.8 c 0,0 0.4,3.2 4.6,6.7 4.3,3.6 7.4,3.5 7.4,3.5 z"
+   id="path84-7-0"
+   inkscape:connector-curvature="0"
+   style="fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" /><g
+   id="g1514-0"
+   style="display:inline;fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none"
+   transform="translate(-2.892434e-6)"><g
+     id="g56-5-5"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="675,141 640.6,154.7 674.2,139.2 "
+   id="polygon58-1-7"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g60-4-4"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="656.9,162.3 628.3,169.5 656.4,160.4 "
+   id="polygon62-8-2"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g64-3-6"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="641.4,180.6 613,186.7 640.9,178.7 "
+   id="polygon66-3-9"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g70-8-9"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="685.1,148.4 675.5,184.1 683.2,147.9 "
+   id="polygon72-4-9"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g74-3-1"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="667.2,169.5 662.9,198.7 665.2,169.3 "
+   id="polygon76-4-4"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g78-7-7"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="651.7,187.8 648.5,216.7 649.7,187.6 "
+   id="polygon80-4-3"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g></g>
+                                          </g><g
+   id="g50-5"
+   style="display:none;fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none"
+   transform="translate(95.283603)">
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 623,201.2 c 0,0 -11,-2.6 -17.5,-8.1 -6.1,-5.1 -7.7,-16.9 -1.7,-24.1 16.6,-19.7 86.9,-48.1 86.9,-48.1 z"
+   id="path52-1"
+   inkscape:connector-curvature="0"
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 <path
+   stroke-miterlimit="10"
+   d="M 1042.4,-295.4 610.6,215.9 c 0,0 1.4,2.5 4.1,4.8 2.7,2.3 5.8,2.8 5.8,2.8 l 431.8,-511.3 z"
+   id="path54-0"
+   inkscape:connector-curvature="0"
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 
+                                                 
+                                                 
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 632.5,209.3 c 0,0 4.4,10.4 10.9,15.9 6.1,5.1 18,4.7 24,-2.4 C 684,203.1 700.3,129 700.3,129 Z"
+   id="path68-8"
+   inkscape:connector-curvature="0"
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 
+                                                 
+                                                 
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 1058.4,-285.5 c -2.8,3.3 -8.7,1.7 -14,-2.7 -5.3,-4.4 -7.8,-10.1 -5,-13.4 2.8,-3.3 8.7,-1.7 14,2.7 5.2,4.5 7.8,10.2 5,13.4 z"
+   id="path82-4"
+   inkscape:connector-curvature="0"
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 1055,-288.6 26.2,-35.6 -10.1,40.1 20.7,17.4 0.4,-78.1 -76.9,13.5 20.6,17.4 37.8,-16.7 -30.7,31.8 c 0,0 0.4,3.2 4.6,6.7 4.3,3.6 7.4,3.5 7.4,3.5 z"
+   id="path84-8"
+   inkscape:connector-curvature="0"
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" /><g
+   id="g1528-1"
+   style="display:inline;fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none"><g
+     id="g56-0"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="674.2,139.2 675,141 640.6,154.7 "
+   id="polygon58-3"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g60-1"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="656.4,160.4 656.9,162.3 628.3,169.5 "
+   id="polygon62-99"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g64-1"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="640.9,178.7 641.4,180.6 613,186.7 "
+   id="polygon66-2"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g70-9"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="683.2,147.9 685.1,148.4 675.5,184.1 "
+   id="polygon72-80"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g74-8"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="665.2,169.3 667.2,169.5 662.9,198.7 "
+   id="polygon76-8"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g78-9"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="649.7,187.6 651.7,187.8 648.5,216.7 "
+   id="polygon80-5"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g></g>
+                                          </g><g
+   id="g50-9-2"
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none"
+   transform="translate(196.67583)">
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 623,201.2 c 0,0 -11,-2.6 -17.5,-8.1 -6.1,-5.1 -7.7,-16.9 -1.7,-24.1 16.6,-19.7 86.9,-48.1 86.9,-48.1 z"
+   id="path52-8-6"
+   inkscape:connector-curvature="0"
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 <path
+   stroke-miterlimit="10"
+   d="M 1042.4,-295.4 610.6,215.9 c 0,0 1.4,2.5 4.1,4.8 2.7,2.3 5.8,2.8 5.8,2.8 l 431.8,-511.3 z"
+   id="path54-7-8"
+   inkscape:connector-curvature="0"
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 
+                                                 
+                                                 
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 632.5,209.3 c 0,0 4.4,10.4 10.9,15.9 6.1,5.1 18,4.7 24,-2.4 C 684,203.1 700.3,129 700.3,129 Z"
+   id="path68-6-5"
+   inkscape:connector-curvature="0"
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 
+                                                 
+                                                 
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 1058.4,-285.5 c -2.8,3.3 -8.7,1.7 -14,-2.7 -5.3,-4.4 -7.8,-10.1 -5,-13.4 2.8,-3.3 8.7,-1.7 14,2.7 5.2,4.5 7.8,10.2 5,13.4 z"
+   id="path82-9-4"
+   inkscape:connector-curvature="0"
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-miterlimit:10;stroke-dasharray:none" />
+                                                 <path
+   stroke-miterlimit="10"
+   d="m 1055,-288.6 26.2,-35.6 -10.1,40.1 20.7,17.4 0.4,-78.1 -76.9,13.5 20.6,17.4 37.8,-16.7 -30.7,31.8 c 0,0 0.4,3.2 4.6,6.7 4.3,3.6 7.4,3.5 7.4,3.5 z"
+   id="path84-5-5"
+   inkscape:connector-curvature="0"
+   style="display:inline;fill:#f2bc51;fill-opacity:1;stroke:#000000;stroke-width:2.54133;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" /><g
+   id="g1147-8"
+   style="display:inline;fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none"
+   transform="translate(-9.2518861e-6)"><g
+     id="g56-4-0"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="674.2,139.2 675,141 640.6,154.7 "
+   id="polygon58-4-1"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g60-9-8"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="656.4,160.4 656.9,162.3 628.3,169.5 "
+   id="polygon62-9-1"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g64-7-0"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="640.9,178.7 641.4,180.6 613,186.7 "
+   id="polygon66-1-2"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g70-84-0"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="683.2,147.9 685.1,148.4 675.5,184.1 "
+   id="polygon72-8-4"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g74-1-8"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="665.2,169.3 667.2,169.5 662.9,198.7 "
+   id="polygon76-9-4"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g><g
+     id="g78-5-7"
+     style="display:inline;fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none">
+                                                        <polygon
+   points="651.7,187.8 648.5,216.7 649.7,187.6 "
+   id="polygon80-3-8"
+   style="fill:#000000;fill-opacity:1;stroke-width:2.54133;stroke-dasharray:none" />
+                                                 </g></g>
+                                          </g></g></g>
+              </switch>
        </g>
        <g
    inkscape:groupmode="layer"
