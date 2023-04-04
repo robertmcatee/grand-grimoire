@@ -1,3 +1,4 @@
+kiosk_config=https://raw.githubusercontent.com/robertmcatee/grand-grimoire/main/kiosk-config-sact1.txt
 connection=wired
 dhcp=yes
 browser=chrome
