@@ -1,6 +1,10 @@
 kiosk_config=https://raw.githubusercontent.com/robertmcatee/grand-grimoire/main/kiosk-config-sact1.txt
-connection=wired
+connection=wifi
+network_interface=wlan0
 dhcp=yes
+wifi_encryption=wpa
+wpa_password=615EHouston
+ssid_name=www_gtwy
 browser=chrome
 homepage=https://www2.txwb.uscourts.gov/calendar/kiosk/SACT1-TODAY.htm
 disable_navigation_bar=yes
