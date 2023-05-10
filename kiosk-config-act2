@@ -1,0 +1,11 @@
+kiosk_config=https://raw.githubusercontent.com/robertmcatee/grand-grimoire/main/kiosk-config-act2.txt
+connection=wifi
+network_interface=wlan0
+dhcp=yes
+wifi_encryption=wpa
+wpa_password=T#wiFy@66
+ssid_name=AustinBankruptcyWireless
+browser=chrome
+homepage=https://www2.txwb.uscourts.gov/calendar/kiosk/ACT2-TODAY.htm
+disable_navigation_bar=yes
+halt_idle=780
