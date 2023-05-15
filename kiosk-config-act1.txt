@@ -8,6 +8,5 @@ ssid_name=AustinBankruptcyWireless
 browser=chrome
 homepage=https://www2.txwb.uscourts.gov/calendar/kiosk/ACT1-TODAY.htm
 disable_navigation_bar=yes
-halt_idle=780
-refresh_webpage=30
+halt_idle=13
 hide_mouse=5
