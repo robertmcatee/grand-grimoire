@@ -8,6 +8,5 @@ ssid_name=SanAntonioBankruptcyWireless3FA
 browser=chrome
 homepage=https://www2.txwb.uscourts.gov/calendar/kiosk/SACT1-TODAY.htm
 disable_navigation_bar=yes
-halt_idle=780
-refresh_webpage=800
+halt_idle=13
 hide_mouse=5
