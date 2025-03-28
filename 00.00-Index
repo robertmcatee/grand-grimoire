@@ -1,60 +1,100 @@
 00-09 Input & General Administration
-   01 Inbox/To Process (Physical & Digital)
-   02 Reference Material (General)
-   03 Templates (General)
-   04 Software & Tools (General)
-   09 Journal
+    01 Inbox/To Process (Physical & Digital)
+    02 Reference Material (General)
+    03 Templates (General)
+    04 Software & Tools (General)
 10-29 Personal
-   10 Personal Administration
-      10.00 Finances
-      10.01 Health & Wellness
-      10.02 Personal Development
-      10.03 Hobbies & Interests
-      10.04 Legal & Documents
-      10.05 Travel
-   20 Personal Projects/Working
-      20.00 Personal Project 1
-      21.00 Personal Project 2
-30-49 Family
-   30 Family Administration
-      30.00 Family Finances
-      30.01 Family Health
-      30.02 Children
-      30.03 Household Management
-      30.04 Family Events
-      30.05 Genealogy
-   40 Family Projects/Working
-      40.00 Family Project 1
-      41.00 Family Project 2
+    11 Finances
+    12 Health & Wellness
+    13 Personal Development
+        13.01 Spiritual/Philosophical Pursuits
+            13.01.01 Religious Studies
+            13.01.02 Philosophical Readings
+            13.01.03 Meditation/Reflection Practices
+    14 Hobbies & Interests
+    15 Legal & Documents
+    16 Travel
+    17 Personal Projects/Working
+        17.01 Personal Project 1 (e.g., Writing a novel)
+        17.02 Personal Project 2 (e.g., Learning a new language)
+    18 Community/Social Connections
+        18.01 Volunteer Work (e.g., Local Food Bank)
+        18.02 Social Club Memberships (e.g., Book Club)
+        18.03 Networking Contacts (e.g., Industry Professionals)
+    19 Long-Term Life Planning
+        19.01 Retirement Planning (placeholder)
+        19.02 Estate Planning (placeholder)
+        19.03 Legacy Projects (placeholder)
+20-29 Physical Item Management
+    21 Tools
+        21.01 Power Tools
+        21.02 Hand Tools
+    22 Books
+        22.01 Fiction
+        22.02 Non-Fiction
+    23 Collectables
+        23.01 Stamps (placeholder)
+        23.02 Coins (placeholder)
+    24 Other Physical Items (placeholder)
+30-49 Home
+    31 Finances
+    32 Health
+    33 Children
+    34 Household Management
+        34.01 Maintenance and Repairs
+        34.02 Utilities and Services
+        34.03 Groceries and Supplies
+        34.04 Home Improvement Projects
+        34.05 Home Inventory
+        34.06 Cleaning and Organization
+    35 Home Events
+    36 Genealogy
+    37 Home Projects/Working
+        37.01 Home Project 1 (e.g., Garden renovation)
+        37.02 Home Project 2 (e.g., Home Automation setup)
+40-49 Task Management
+    41 Daily Tasks
+    42 Project To-Do Lists
+    43 Action Items
 50-69 Work
-   50 Work Administration
-      50.00 IT Leadership and Accountability
-      50.01 IT Strategic Planning
-      50.02 IT Workforce Management
-      50.03 IT Budgeting
-      50.04 IT Investment Management
-      50.05 Information Security and Privacy (FISMA/CISO Oversight)
-      50.06 Architecture and Information Resources
-      50.07 Data Management
-      50.08 Clinger-Cohen Act Compliance
-      50.09 FITARA Compliance
-      51.00 Vendor Management
-      52.00 Legal and Regulatory Compliance
-      53.00 Court Specific Applications.
-      54.00 User Support and Training
-   60 Work Projects/Working
-      60.00 Project 1 (e.g., Case Management System Upgrade)
-      61.00 Project 2 (e.g., Cybersecurity Enhancement)
-      62.00 Project 3 (e.g. Data Governance Initiative)
+    51 IT Leadership and Accountability
+        51.01 Operational Metrics
+    52 IT Strategic Planning
+    53 IT Workforce Management
+    54 IT Budgeting
+        54.01 Status of Funds Reports
+    55 IT Investment Management
+    56 Information Security and Privacy (FISMA/CISO Oversight)
+    57 Architecture
+    58 Data Management and Information Resources
+    59 Clinger-Cohen Act Compliance
+    60 FITARA Compliance
+    61 Vendor Management
+        61.01 Contract Documents (COR Files)
+    62 Legal and Regulatory Compliance
+    63 Court Specific Applications
+    64 User Support and Training
+    66 Emerging Technologies
+    67 Work Projects/Working
+        67.01 Project 1 (e.g., Case Management System Upgrade)
+        67.02 Project 2 (e.g., Cybersecurity Enhancement)
+        67.03 Project 3 (e.g. Data Governance Initiative)
 70-89 Output
-   70 Active Output
-      70.00 Reports
-      70.01 Presentations
-      70.02 Documents
-      70.03 Creative Works
-   80 Archive
-      80.2024 Archive 2024
-      81.Project_X Project X Archive
+    71 Reports
+    72 Presentations
+    73 Documents
+    74 Creative Works
+        74.01 Writing Projects
+        74.02 Art Projects
+        74.03 Music Projects
+    75 Publications
+    76 Presentations
+    77 Media creation
+    78 Public Speaking
+    79 Teaching Materials.
+    80 Archive
+        80.01 Archive 2024
+        80.02 Project X Archive
 90-99 Reserved / Special Projects
-   90 Long Term Project 1
-   91 Large Scale Project 2
+    91 Long Term Project 1 (placeholder)
+    92 Large Scale Project 2 (placeholder)
