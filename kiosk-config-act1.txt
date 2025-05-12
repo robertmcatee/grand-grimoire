@@ -1,4 +1,4 @@
-kiosk_config=https://raw.githubusercontent.com/robertmcatee/grand-grimoire/main/kiosk-config-act1.txt
+kiosk_config=https://www2.txwb.uscourts.gov/calendar/kiosk/kiosk-config-act1.txt
 connection=wifi
 network_interface=wlan0
 dhcp=yes
