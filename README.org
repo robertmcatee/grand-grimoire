@@ -1,0 +1,54 @@
+* Grand Grimoire
+A grimoire, containing my recipes for different things.
+** Setup a New Machine
+*** Perform the Arch Linux Install
+- config.json
+**** OR the Guix System
+- config.scm
+- channels.scm
+*** Install Packages
+**** Pacman
+- pacman-contrib
+- firefox (should have been installed with config.json)
+*** Install Guix and Apply the Guix Home Config
+- config-home.scm
+*** Setup Syncing and VPN Options
+- OneDrive
+- Syncthing, through Guix
+- openconnect VPN sometimes needed
+*** Setup Gnome Extensions and Themes
+**** Flatpaks
+- Extensions
+- Extensions Manager
+**** Gnome Extensions
+- Arch Linux Updates Indicator
+- Bing Wallpaper
+- Burn My Windows
+- Caffeine
+- Dash to Dock
+- User Themes
+- Forge
+- Improved Workspace Indicator
+- Gsconnect
+**** Themes
+- Orchis Theme
+**** Dock Configuration
+- Software
+- Files
+- Terminal
+- Emacs
+- Firefox
+- Thunderbird
+- Signal
+- KeePassXC
+- Logseq
+- Geany
+- VLC
+- Syncthing
+**** Other Apps
+- Outlook(PWA) OR Geary, Calendar, Contacts, Todo
+- Teams(Chromium) OR Signal
+- Remmina
+- Calculator
+- Screen Capture
+- gitg
